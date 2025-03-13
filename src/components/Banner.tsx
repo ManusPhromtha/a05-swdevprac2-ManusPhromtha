@@ -8,7 +8,7 @@ export default function Banner () {
             alt='cover'
             fill={true}
             priority
-            objectFit='cover'/>
+            className='object-fill'/>
             <div className={styles.bannerText}>
                 <h1 className='text-4xl font-medium'>where every event finds its venue</h1>
                 <h3 className='text-xl font-serif'>This is a space where every event finds its venue, and where every occasion is elevated to its full potential. It is a place where memories are made, and where dreams come true.</h3>
